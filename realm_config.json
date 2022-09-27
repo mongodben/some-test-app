@@ -1,0 +1,7 @@
+{
+    "config_version": 20210101,
+    "app_id": "some-test-app-byewf",
+    "name": "some-test-app",
+    "location": "US-VA",
+    "deployment_model": "GLOBAL"
+}
